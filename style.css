@@ -1,0 +1,15 @@
+
+dt{
+    font-weight: bold;
+}
+h2{
+    font-style: italic;
+    color:darkmagenta;
+}
+h1{
+    color:brown;
+    font-weight: bolder;
+}
+*{
+    align-items: center;
+}
